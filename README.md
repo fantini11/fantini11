@@ -26,7 +26,7 @@ Tenho interesse em desenvolvimento de software, especialmente nas áreas de back
 🔹 [SafeStadium](https://github.com/fantini11/safe-stadium-system)  
 Sistema de gestão de ocorrências em eventos esportivos.
 
-🔹 [Planoriza](https://github.com/fantini11/planoriza-system)  
+🔹 [Planoriza](https://github.com/fantini11/planoriza-task-manager)
 Aplicação web para gerenciamento de tarefas e organização de tempo para estudantes.
 <!--
 **fantini11/fantini11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
