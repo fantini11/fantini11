@@ -31,7 +31,7 @@ Aplicação web para gerenciamento de tarefas e organização de tempo para estu
 
 ## Contato
 
-LinkedIn: https://www.linkedin.com/in/gabriel-fantini-2353b0353/ 
+LinkedIn: https://www.linkedin.com/in/gabriel-fantini-2353b0353/  
 Email: gabrielmarquesfantini@gmail.com
 <!--
 **fantini11/fantini11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
