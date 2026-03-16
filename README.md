@@ -1,5 +1,33 @@
-## Hi there 👋
+# Gabriel Fantini
 
+Estudante de Ciência da Computação na PUC Minas.
+
+Tenho interesse em desenvolvimento de software, especialmente nas áreas de backend, bancos de dados e inteligência artificial.
+
+## Tecnologias
+
+- Java
+- JavaScript
+- C/C++
+- SQL
+- HTML
+- CSS
+- Git
+
+## Interesses
+
+- Desenvolvimento Backend
+- Banco de Dados
+- Inteligência Artificial
+- Sistemas Web
+
+## Projetos
+
+🔹 SafeStadium  
+Sistema de gestão de ocorrências em eventos esportivos.
+
+🔹 Planoriza  
+Aplicação web para gerenciamento de tarefas e organização de tempo para estudantes.
 <!--
 **fantini11/fantini11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
