@@ -27,7 +27,7 @@ Tenho interesse em desenvolvimento de software, especialmente nas áreas de back
 Sistema de gestão de ocorrências em eventos esportivos.
 
 🔹 [Planoriza](https://github.com/fantini11/planoriza-task-manager)
-  Aplicação web para gerenciamento de tarefas e organização de tempo para estudantes.
+       Aplicação web para gerenciamento de tarefas e organização de tempo para estudantes.
 
 ## Contato
 
