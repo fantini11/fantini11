@@ -40,7 +40,7 @@ Modelagem completa de banco de dados relacional PostgreSQL (12 tabelas), com scr
 
 Aplicação web para gerenciamento de tarefas e organização de tempo, com Timer Pomodoro.
 
-🔹 **Detecção de Fraude Financeira com Machine Learning**
+🔹 **[Detecção de Fraude Financeira com Machine Learning](https://github.com/fantini11/Fraud-Detection-Using-Machine-Learning-Techniques)**
 
 Artigo científico em coautoria (template SBC), aplicando SMOTE e F1-Score para detecção de fraudes em transações financeiras.
 
