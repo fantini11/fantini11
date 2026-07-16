@@ -25,18 +25,23 @@ Tenho interesse em desenvolvimento de software, especialmente nas áreas de back
 ## Projetos
 
 🔹 **[Assistente de Estudos com RAG](https://github.com/fantini11/Assistente-de-Estudos-com-RAG)**
+
 Pipeline de Retrieval-Augmented Generation em Python: ingestão de documentos, chunking, geração de embeddings, busca semântica e integração com API de LLM (Claude/OpenAI).
 
 🔹 **[SafeStadium](https://github.com/fantini11/safe-stadium-system)**
+
 Sistema de gestão de ocorrências em eventos esportivos, com integração da API Clarifai para análise de imagens com IA.
 
 🔹 **[Mãos que Ajudam](#)**
+
 Modelagem completa de banco de dados relacional PostgreSQL (12 tabelas), com scripts SQL e três notações de modelagem (ER de Chen, esquema lógico e crow's foot).
 
 🔹 **[Planoriza](https://github.com/fantini11/planoriza-task-manager)**
+
 Aplicação web para gerenciamento de tarefas e organização de tempo, com Timer Pomodoro.
 
 🔹 **Detecção de Fraude Financeira com Machine Learning**
+
 Artigo científico em coautoria (template SBC), aplicando SMOTE e F1-Score para detecção de fraudes em transações financeiras.
 
 ## Contato
