@@ -42,6 +42,7 @@ Artigo científico em coautoria (template SBC), aplicando SMOTE e F1-Score para 
 ## Contato
 
 LinkedIn: [linkedin.com/in/gabriel-fantini-2353b0353](https://www.linkedin.com/in/gabriel-fantini-2353b0353/)
+
 Email: gabrielmarquesfantini@gmail.com
 
 <!--
